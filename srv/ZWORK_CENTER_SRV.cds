@@ -1,4 +1,4 @@
-using ZWORK_CENTER_SRV from './external/ZWORK_CENTER_SRV.cds';
+using ZWORK_CENTER_SRV from './external/ZWORK_CENTER_SRV';
 
 service ZWORK_CENTER_SRVSampleService {
     @readonly
